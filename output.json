@@ -1,0 +1,22 @@
+[
+  {
+    "age": 123,
+    "gender": "male",
+    "name": "mlsko"
+  },
+  {
+    "age": 32,
+    "cars": [
+      {
+        "id": 1,
+        "name": "BMW"
+      },
+      {
+        "id": 2,
+        "name": "Tesla Model X"
+      }
+    ],
+    "gender": "female",
+    "name": "Alice"
+  }
+]

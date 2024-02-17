@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bob",
+        "gender": "male",
+        "age": 34
+    },
+    {
+        "name": "Alice",
+        "gender": "female",
+        "age": 32,
+        "cars": [
+            {
+                "id": 1,
+                "name": "BMW"
+            },
+            {
+                "id": 2,
+                "name": "Tesla Model X"
+            }
+        ]
+    }
+]
